@@ -1,5 +1,7 @@
 **Rock Paper Scissors - Bash Edition**
+
 Total file size: 1KB
+
 Formatted for Linux/Unix
 
 **Instructions**
